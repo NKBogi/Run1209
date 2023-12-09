@@ -1,0 +1,886 @@
+[
+  {
+    "id": 1284243,
+    "index": 0,
+    "name": "Rajt - Aszófő",
+    "distance": "7000",
+    "start": 1683351928200,
+    "end": 1683354568800,
+    "options": [
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "03:40 - 20:35",
+    "runnerName": "Bogdán Dániel"
+  },
+  {
+    "id": 1284244,
+    "index": 1,
+    "name": "Aszófő - Fövenyes",
+    "distance": "4500",
+    "start": 1683354568800,
+    "end": 1683356597700,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "04:20 - 21:00",
+    "runnerName": "Németh Csilla"
+  },
+  {
+    "id": 1284245,
+    "index": 2,
+    "name": "Fövenyes - Balatonakali",
+    "distance": "4500",
+    "start": 1683356597700,
+    "end": 1683357896900,
+    "options": [
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "04:50 - 21:30",
+    "runnerName": "Simon Dorka"
+  },
+  {
+    "id": 1284246,
+    "index": 3,
+    "name": "Balatonakali - Zánka Unk",
+    "distance": "3700",
+    "start": 1683357896900,
+    "end": 1683359195000,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "05:40 - 22:10",
+    "runnerName": "Simon Dorka"
+  },
+  {
+    "id": 1284247,
+    "index": 4,
+    "name": "Zánka Unk - Zánka",
+    "distance": "2900",
+    "start": 1683359195000,
+    "end": 1683360107500,
+    "options": [
+      "Zene",
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "05:50 - 21:30",
+    "runnerName": "Deák Richárd"
+  },
+  {
+    "id": 1284248,
+    "index": 5,
+    "name": "Zánka - Balatonszepezd",
+    "distance": "3700",
+    "start": 1683360107500,
+    "end": 1683361315800,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "06:10 - 22:30",
+    "runnerName": "Németh Csilla"
+  },
+  {
+    "id": 1284249,
+    "index": 6,
+    "name": "Balatonszepezd - Révfülöp kelet",
+    "distance": "3100",
+    "start": 1683361315800,
+    "end": 1683191885000,
+    "options": [
+      "Masszázs",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "06:35 - 22:50",
+    "runnerName": "Bogdán Dániel"
+  },
+  {
+    "id": 1284250,
+    "index": 7,
+    "name": "Révfülöp kelet - Révfülöp nyugat",
+    "distance": "1800",
+    "start": 1683191885000,
+    "end": 1683362835200,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "06:50 - 23:00",
+    "runnerName": "Pintér Marcell"
+  },
+  {
+    "id": 1284251,
+    "index": 8,
+    "name": "Révfülöp nyugat - Ábrahámhegy",
+    "distance": "5300",
+    "start": 1683362835200,
+    "end": 1683364858100,
+    "options": [
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "07:30 - 23:35",
+    "runnerName": "Barta Vanda"
+  },
+  {
+    "id": 1284252,
+    "index": 9,
+    "name": "Ábrahámhegy - Badacsonyörs Varga",
+    "distance": "3100",
+    "start": 1683364858100,
+    "end": 1683365991900,
+    "options": [
+      "Zene",
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "07:55 - 23:55",
+    "runnerName": "Bogdán Dániel"
+  },
+  {
+    "id": 1284253,
+    "index": 10,
+    "name": "Badacsonyörs Varga - Badacsony",
+    "distance": "5000",
+    "start": 1683365991900,
+    "end": 1683367824300,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "08:30 - 00:25",
+    "runnerName": "Bogdán Dániel"
+  },
+  {
+    "id": 1284254,
+    "index": 11,
+    "name": "Badacsony - Badacsonytördemic",
+    "distance": "5000",
+    "start": 1683367824300,
+    "end": 1683369722200,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "09:10 - 01:00",
+    "runnerName": "Simon Dorka"
+  },
+  {
+    "id": 1284255,
+    "index": 12,
+    "name": "Badacsonytördemic - Szigliget",
+    "distance": "3400",
+    "start": 1683369722200,
+    "end": 1683371476000,
+    "options": [
+      "Zene",
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "09:35 - 01:20",
+    "runnerName": "Bogdán Dániel"
+  },
+  {
+    "id": 1284256,
+    "index": 13,
+    "name": "Szigliget - Balatongyörök",
+    "distance": "7600",
+    "start": 1683371476000,
+    "end": 1683374515800,
+    "options": [
+      "Meleg ital",
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "10:35 - 02:05",
+    "runnerName": "Szőke Csenge"
+  },
+  {
+    "id": 1284257,
+    "index": 14,
+    "name": "Balatongyörök - Balatongyörök 2",
+    "distance": "2800",
+    "start": 1683374515800,
+    "end": 1683375556300,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "10:55 - 02:25",
+    "runnerName": "Lukács Kíra"
+  },
+  {
+    "id": 1284258,
+    "index": 15,
+    "name": "Balatongyörök 2 - Vonyarcvashegy",
+    "distance": "3400",
+    "start": 1683375556300,
+    "end": 1683376770900,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "11:25 - 02:45",
+    "runnerName": "Deák Richárd"
+  },
+  {
+    "id": 1284259,
+    "index": 16,
+    "name": "Vonyarcvashegy - Gyenesdiás",
+    "distance": "2200",
+    "start": 1683376770900,
+    "end": 1683377592900,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "11:40 - 03:00",
+    "runnerName": "Németh Csilla"
+  },
+  {
+    "id": 1284260,
+    "index": 17,
+    "name": "Gyenesdiás - Keszthely Libás strand",
+    "distance": "1700",
+    "start": 1683377592900,
+    "end": 1683378257800,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "11:50 - 03:10",
+    "runnerName": "Deák Richárd"
+  },
+  {
+    "id": 1284261,
+    "index": 18,
+    "name": "Keszthely Libás strand - Keszthely",
+    "distance": "3100",
+    "start": 1683378257800,
+    "end": 1683379539200,
+    "options": [
+      "Zene",
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "12:10 - 03:30",
+    "runnerName": "Szőke Csenge"
+  },
+  {
+    "id": 1284262,
+    "index": 19,
+    "name": "Keszthely - Fenékpuszta",
+    "distance": "4800",
+    "start": 1683379539200,
+    "end": 1683381617700,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "12:45 - 04:00",
+    "runnerName": "Barta Vanda"
+  },
+  {
+    "id": 1284263,
+    "index": 20,
+    "name": "Fenékpuszta - Balatonberény fogadó",
+    "distance": "4300",
+    "start": 1683381617700,
+    "end": 1683383597600,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "13:10 - 04:45",
+    "runnerName": "Pintér Marcell"
+  },
+  {
+    "id": 1284264,
+    "index": 21,
+    "name": "Balatonberény fogadó - Balatonberény",
+    "distance": "2900",
+    "start": 1683383597600,
+    "end": 1683384653500,
+    "options": [
+      "Masszázs",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "13:30 - 04:45",
+    "runnerName": "Lukács Kíra"
+  },
+  {
+    "id": 1284265,
+    "index": 22,
+    "name": "Balatonberény - Balatonmáriafürdő nyugat",
+    "distance": "3800",
+    "start": 1683384653500,
+    "end": 1683386279000,
+    "options": [
+      "Masszázs",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "13:50 - 05:10",
+    "runnerName": "Bogdán Dániel"
+  },
+  {
+    "id": 1284266,
+    "index": 23,
+    "name": "Balatonmáriafürdő nyugat - Balatonmáriafürdő kelet",
+    "distance": "5200",
+    "start": 1683386279000,
+    "end": 1683388029200,
+    "options": [
+      "Zene",
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "14:20 - 05:40",
+    "runnerName": "Németh Csilla"
+  },
+  {
+    "id": 1284267,
+    "index": 24,
+    "name": "Balatonmáriafürdő kelet - Balatonfenyves nyugat",
+    "distance": "1600",
+    "start": 1683388029200,
+    "end": 1683388576500,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "14:25 - 05:50",
+    "runnerName": "Szőke Csenge"
+  },
+  {
+    "id": 1284268,
+    "index": 25,
+    "name": "Balatonfenyves nyugat - Balatonfenyves kikötő",
+    "distance": "1800",
+    "start": 1683388576500,
+    "end": 1683389138000,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "14:35 - 06:00",
+    "runnerName": "Szőke Csenge"
+  },
+  {
+    "id": 1284269,
+    "index": 26,
+    "name": "Balatonfenyves kikötő - Alsóbélatelep",
+    "distance": "4600",
+    "start": 1683389138000,
+    "end": 1683390823100,
+    "options": [
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "15:10 - 05:35",
+    "runnerName": "Lukács Kíra"
+  },
+  {
+    "id": 1284270,
+    "index": 27,
+    "name": "Alsóbélatelep - Fonyód",
+    "distance": "3300",
+    "start": 1683390823100,
+    "end": 1683391872600,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "15:20 - 06:50",
+    "runnerName": "Deák Richárd"
+  },
+  {
+    "id": 1284271,
+    "index": 28,
+    "name": "Fonyód - Fonyódliget",
+    "distance": "3200",
+    "start": 1683391872600,
+    "end": 1683392928300,
+    "options": [
+      "Meleg ital",
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "15:35 - 07:10",
+    "runnerName": "Veres Arnold"
+  },
+  {
+    "id": 1284272,
+    "index": 29,
+    "name": "Fonyódliget - Balatonboglár",
+    "distance": "5300",
+    "start": 1683392928300,
+    "end": 1683395104900,
+    "options": [
+      "Zene",
+      "Masszázs",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "16:05 - 07:45",
+    "runnerName": "Veres Arnold"
+  },
+  {
+    "id": 1284273,
+    "index": 30,
+    "name": "Balatonboglár - Balatonboglár kelet",
+    "distance": "1900",
+    "start": 1683395104900,
+    "end": 1683395524700,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "16:15 - 08:00",
+    "runnerName": "Németh Csilla"
+  },
+  {
+    "id": 1284274,
+    "index": 31,
+    "name": "Balatonboglár kelet - Balatonlelle nyugat",
+    "distance": "2500",
+    "start": 1683395524700,
+    "end": 1683397000100,
+    "options": [
+      "Zene",
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "16:30 - 08:15",
+    "runnerName": "Szőke Csenge"
+  },
+  {
+    "id": 1284275,
+    "index": 32,
+    "name": "Balatonlelle nyugat - Balatonlelle kelet",
+    "distance": "2000",
+    "start": 1683397000100,
+    "end": 1683397982900,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "16:40 - 08:25",
+    "runnerName": "Veres Arnold"
+  },
+  {
+    "id": 1284276,
+    "index": 33,
+    "name": "Balatonlelle kelet - Balatonszemes",
+    "distance": "5200",
+    "start": 1683397982900,
+    "end": 1683399883000,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "17:10 - 09:00",
+    "runnerName": "Barta Vanda"
+  },
+  {
+    "id": 1284277,
+    "index": 34,
+    "name": "Balatonszemes - Balatonszárszó",
+    "distance": "5000",
+    "start": 1683399883000,
+    "end": 1683401981100,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "17:35 - 09:30",
+    "runnerName": "Lukács Kíra"
+  },
+  {
+    "id": 1284278,
+    "index": 35,
+    "name": "Balatonszárszó - Balatonföldvár",
+    "distance": "3900",
+    "start": 1683401981100,
+    "end": 1683403417100,
+    "options": [
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "17:55 - 09:55",
+    "runnerName": "Deák Richárd"
+  },
+  {
+    "id": 1284279,
+    "index": 36,
+    "name": "Balatonföldvár - Balatonföldvár Strand",
+    "distance": "1700",
+    "start": 1683403417100,
+    "end": 1683404000900,
+    "options": [
+      "Meleg ital",
+      "Zene",
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "18:00 - 10:00",
+    "runnerName": "Lukács Kíra"
+  },
+  {
+    "id": 1284280,
+    "index": 37,
+    "name": "Balatonföldvár Strand - Szántód",
+    "distance": "1600",
+    "start": 1683404000900,
+    "end": 1683404795700,
+    "options": [
+      "Zene",
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "18:15 - 10:15",
+    "runnerName": "Lukács Kíra"
+  },
+  {
+    "id": 1284281,
+    "index": 38,
+    "name": "Szántód - Zamárdi",
+    "distance": "4300",
+    "start": 1683404795700,
+    "end": 1683405849300,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "18:35 - 10:45",
+    "runnerName": "Németh Csilla"
+  },
+  {
+    "id": 1284282,
+    "index": 39,
+    "name": "Zamárdi - Balatonszéplak",
+    "distance": "5300",
+    "start": 1683405849300,
+    "end": 1683407921700,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "19:05 - 11:20",
+    "runnerName": "Veres Arnold"
+  },
+  {
+    "id": 1284283,
+    "index": 40,
+    "name": "Balatonszéplak - Siófok nyugat",
+    "distance": "2200",
+    "start": 1683407921700,
+    "end": 1683408658000,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "19:05 - 11:20",
+    "runnerName": "Szőke Csenge"
+  },
+  {
+    "id": 1284284,
+    "index": 41,
+    "name": "Siófok nyugat - Siófok kelet",
+    "distance": "6000",
+    "start": 1683408658000,
+    "end": 1683410987100,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "19:50 - 12:10",
+    "runnerName": "Németh Csilla"
+  },
+  {
+    "id": 1284285,
+    "index": 42,
+    "name": "Siófok kelet - Siófok sóstó",
+    "distance": "4500",
+    "start": 1683410987100,
+    "end": 1683412540600,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "20:15 - 12:40",
+    "runnerName": "Pintér Marcell"
+  },
+  {
+    "id": 1284286,
+    "index": 43,
+    "name": "Siófok sóstó - Balatonvilágos parti út",
+    "distance": "3300",
+    "start": 1683412540600,
+    "end": 1683414113900,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "20:35 - 13:00",
+    "runnerName": "Szőke Csenge"
+  },
+  {
+    "id": 1284287,
+    "index": 44,
+    "name": "Balatonvilágos parti út - Balatonvilágos",
+    "distance": "2200",
+    "start": 1683414113900,
+    "end": 1683415210400,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "20:45 - 13:15",
+    "runnerName": "Antal Gábor"
+  },
+  {
+    "id": 1284288,
+    "index": 45,
+    "name": "Balatonvilágos - Balatonakarattya",
+    "distance": "5000",
+    "start": 1683415210400,
+    "end": 1683417166600,
+    "options": [
+      "Meleg ital",
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "21:15 - 13:55",
+    "runnerName": "Lukács Kíra"
+  },
+  {
+    "id": 1284289,
+    "index": 46,
+    "name": "Balatonakarattya - Balatonkenese",
+    "distance": "6100",
+    "start": 1683417166600,
+    "end": 1683419786000,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "21:45 - 14:25",
+    "runnerName": "Pintér Marcell"
+  },
+  {
+    "id": 1284290,
+    "index": 47,
+    "name": "Balatonkenese - Balatonfűzfő",
+    "distance": "5500",
+    "start": 1683419786000,
+    "end": 1683421773600,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "22:15 - 15:00",
+    "runnerName": "Antal Gábor"
+  },
+  {
+    "id": 1291012,
+    "index": 48,
+    "name": "Balatonfűzfő - Tobruk Strand",
+    "distance": "3400",
+    "start": 1683421773600,
+    "end": 1683422962100,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "22:30 - 15:15",
+    "runnerName": "Deák Richárd"
+  },
+  {
+    "id": 1291013,
+    "index": 49,
+    "name": "Tobruk Strand - Balatonalmádi",
+    "distance": "3000",
+    "start": 1683422962100,
+    "end": 1683424015000,
+    "options": [
+      "Zene",
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "22:50 - 15:40",
+    "runnerName": "Pintér Marcell"
+  },
+  {
+    "id": 1284292,
+    "index": 50,
+    "name": "Balatonalmádi - Balatonalmádi strand",
+    "distance": "3000",
+    "start": 1683424015000,
+    "end": 1683425187100,
+    "options": [
+      "Meleg ital",
+      "Zene",
+      "Masszázs",
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "23:05 - 16:00",
+    "runnerName": "Barta Vanda"
+  },
+  {
+    "id": 1284293,
+    "index": 51,
+    "name": "Balatonalmádi strand - Alsóörs",
+    "distance": "5600",
+    "start": 1683425187100,
+    "end": 1683428108600,
+    "options": [
+      "Zene",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "23:35 - 16:35",
+    "runnerName": "Bogdán Dániel"
+  },
+  {
+    "id": 1284294,
+    "index": 52,
+    "name": "Alsóörs - Csopak",
+    "distance": "4800",
+    "start": 1683428108600,
+    "end": 1683430269000,
+    "options": [
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "00:00 - 17:05",
+    "runnerName": "Pintér Marcell"
+  },
+  {
+    "id": 1284295,
+    "index": 53,
+    "name": "Csopak - Balatonfüred Probio",
+    "distance": "4100",
+    "start": 1683430269000,
+    "end": 1683431923400,
+    "options": [
+      "Masszázs",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "00:25 - 17:30",
+    "runnerName": "Antal Gábor"
+  },
+  {
+    "id": 1284296,
+    "index": 54,
+    "name": "Balatonfüred Probio - Cél",
+    "distance": "3300",
+    "start": 1683431923400,
+    "end": 1683432989100,
+    "options": [
+      "Meleg ital",
+      "Zene",
+      "Étel",
+      "Wc",
+      "Parkoló",
+      "Szelektív hulladék gyűjtő"
+    ],
+    "openHours": "00:45 - 18:00",
+    "runnerName": "Barta Vanda"
+  }
+]

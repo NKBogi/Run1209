@@ -1,0 +1,4 @@
+package running
+
+class main {
+}

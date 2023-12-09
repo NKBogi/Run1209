@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kaja</string>
+    <string name="name">Név</string>
+    <string name="field_required">Mező kötelező!</string>
+</resources>
